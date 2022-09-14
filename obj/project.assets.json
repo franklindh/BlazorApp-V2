@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S5\\Pemrograman Frontend\\Project\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "D:\\Downloads\\Bios\\BlazorApp-V2\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "D:\\S5\\Pemrograman Frontend\\Project\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "D:\\Downloads\\Bios\\BlazorApp-V2\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\email\\.nuget\\packages\\",
-      "outputPath": "D:\\S5\\Pemrograman Frontend\\Project\\BlazorApp\\obj\\",
+      "outputPath": "D:\\Downloads\\Bios\\BlazorApp-V2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
